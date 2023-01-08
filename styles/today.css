@@ -95,7 +95,7 @@ main{
     padding: 25px 10px;
 } 
 /* contribute section */
-/* .contribute-one{
+ .contribute-one{
     display: flex;
     gap: 50px;
     margin-top: 40px;
@@ -120,9 +120,9 @@ main{
   width:400px;
   height:350px;
   border-radius: 5px;
-} */
+}
 /* contribute two */
-/* .contribute-two{
+.contribute-two{
     display: flex;
     gap: 50px;
     padding: 20px 70px;
@@ -145,7 +145,7 @@ main{
 /* update section */
 /* .update{
     text-align: center; 
-    /* margin-top: 40px; */
+    margin-top: 40px;
     margin:20px 200px;
     padding:20px;
    
