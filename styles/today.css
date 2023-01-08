@@ -1,6 +1,6 @@
 *{
-    padding: 0;
-    margin: 0;
+    /* padding: 0;
+    margin: 0; */
 }
 .header{
     text-align: center;
@@ -24,6 +24,12 @@
     font-size: 20px;
     padding:20px;
 }
+/* money donate section */
+main{
+    background: white;
+    margin:200px;
+    
+}
 .btn-primary{
     background-color: orangered;
     padding:8px 8px;
@@ -32,4 +38,151 @@
     font-size: 20px;
     border-radius: 5px;
 }
+.money-donate{
+    text-align: center;
+}
+.money-donate-header{
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.money-donate-description{
+    padding-bottom: 20px;
+}
+.btn-money-donate{
+    font-weight: 700;
+    font-size: 20px;
+   padding-bottom: 30px;
+    
+}
+.btn-money-donate-item{
+    background-color: #FAFAFA;
+    padding:15px 20px;
+    border: none;
+    color:  #FF5959;
+}
+/* Plan section
+.our-plan{
+    
+    margin-top: 70px;
+}
+.our-plan-header{
+    font-size: 40px;
+    text-align: center;
+}
+.our-plan-header-description{
+    text-align: center;
+}
+.plan-section{
+    display: flex;
+    gap: 20px;
+    
+    
+}
+.our-plan-one{
+    width:340px;
+    height:250px;
+    background-color: lightblue ;
+    padding: 25px 10px;
+}
+.our-plan-two{
+    width:340px; 
+    background-color: aqua;  
+    padding: 25px 10px;
+}
+.our-plan-three{
+    width:340px;
+    background-color: azure;
+    padding: 25px 10px;
+}
+/* contribute section */
+/* .contribute-one{
+    display: flex;
+    gap: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px 70px;
+}
+.contribute-text{
+ width:400px;
+ padding: 10px;
+}
+.contribute-text-header{
+    font-size: 35px;
+}
+.contribute-text-description-one{
+    font-size:15px;
+    color:darkgray;
+}
+.contribute-text-description-two{
+    color:gray;
+}
+.contribute img{
+  width:400px;
+  height:350px;
+  border-radius: 5px;
+} */
+/* contribute two */
+/* .contribute-two{
+    display: flex;
+    gap: 50px;
+    padding: 20px 70px;
+}
+.contribute-two-text{
+    width:400px;
+   padding:15px;
+
+ 
+}
+.contribute-two-header{
+    font-size: 40px;
+}
+.contribute-two-description-one{
+    color:gray;
+}
+.contribute-two-description-two{
+    color:gray;
+}
+/* update section */
+/* .update{
+    text-align: center; 
+    /* margin-top: 40px; */
+    margin:20px 200px;
+    padding:20px;
+   
+} */
+/* .update-header{
+    font-size:40px;
+}
+.update p{
+    color:gray;
+}
+.subscribe{
+    background-color: bisque;
+    margin: 40px 200px;
+    padding: 40px;
+    text-align: center;
+   
+} */
+/* input{
+    border:none;
+    background-color: lightgray;
+    padding:13px 26px;
+    margin:0;
+}
+/* footer */
+/* .footer{
+    background-color: black;
+    text-align: center;
+    padding:2px 10px;
+} */
+/* .footer h3{
+    color:orangered;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 30px;
+} */
+/* .footer h5{
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}  */
+
  
