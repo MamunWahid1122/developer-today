@@ -143,14 +143,14 @@ main{
     color:gray;
 }
 /* update section */
-/* .update{
+.update{
     text-align: center; 
     margin-top: 40px;
     margin:20px 200px;
     padding:20px;
    
-} */
-/* .update-header{
+}
+.update-header{
     font-size:40px;
 }
 .update p{
@@ -162,7 +162,7 @@ main{
     padding: 40px;
     text-align: center;
    
-} */
+}
 /* input{
     border:none;
     background-color: lightgray;
