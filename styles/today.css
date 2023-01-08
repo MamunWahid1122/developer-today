@@ -60,7 +60,7 @@ main{
     border: none;
     color:  #FF5959;
 }
-/* Plan section
+ /* Plan section */
 .our-plan{
     
     margin-top: 70px;
@@ -93,7 +93,7 @@ main{
     width:340px;
     background-color: azure;
     padding: 25px 10px;
-}
+} 
 /* contribute section */
 /* .contribute-one{
     display: flex;
